@@ -1,0 +1,26 @@
+CommUnity/
+│
+├── main.py              # app entry point
+├── config.py            # settings/constants
+│
+├── data/
+│   ├── clinics.json
+│   ├── police.json
+│   ├── water.json
+│   ├── pests.json
+│
+├── features/
+│   ├── sos.py
+│   ├── reports.py
+│   ├── crops.py
+│   ├── news.py
+│
+├── assets/
+│   ├── icons/
+│   ├── mascots/
+│   └── images/
+│
+└── utils/
+    ├── database.py
+    └── helpers.py
+
